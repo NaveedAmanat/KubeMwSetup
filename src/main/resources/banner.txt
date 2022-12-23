@@ -1,0 +1,10 @@
+
+  ${AnsiColor.GREEN} ██████╗ ██████╗ ██████╗ ██  ██╗ ███████
+  ${AnsiColor.GREEN}██╔════╝ ██╔═══╝   ██╔═╝ ██  ██╝ ██    ██
+  ${AnsiColor.GREEN}╚█████╗  █████╗    ██   ╚██  ██╗ ███████
+  ${AnsiColor.GREEN} ╚═══██╗ ██╗       ██    ██  ██╗ ██
+  ${AnsiColor.GREEN}██████╔╝ ██████╔╝  ██╔╝  ██████╝ ██
+  ${AnsiColor.GREEN}╚═════╝  ╚═════╝   ╚═╝  ╚═════╝  
+
+${AnsiColor.BRIGHT_BLUE}:: iDev4 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: http://www.idev4.tech ::${AnsiColor.DEFAULT}
